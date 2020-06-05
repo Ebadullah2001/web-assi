@@ -1,0 +1,205 @@
+body{
+    background-color: darkslategray	;
+   
+    
+}
+.navbar{
+    background-color:black !important;
+    color:rgb(253, 252, 252) !important;
+    
+}
+.navbar-toggler{
+    
+    background-color:rgb(253, 252, 252) !important ;
+
+}
+.fa-car{
+    font-size: 30px  !important;
+}
+.navbar-brand,.navbar-nav mr-auto{
+    color:rgb(253, 252, 252) !important ;
+}
+.nav-link{
+    color:rgb(253, 252, 252) !important;
+    font-weight: bold;
+}
+.fa-user-circle-o:hover{
+    font-size: 30px  !important;
+    
+    cursor: pointer;
+}
+.HELLO{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+.card{
+    display: flex;
+    margin-top: 10px;
+    background-color: black;
+    color: blanchedalmond;
+    box-shadow: 2px 2px 2px black;
+    width: 200px;
+    height: 400px;
+}
+.card-img-top{
+    width: 288px;
+    height: 200px;
+}
+
+.btn-primary{
+    font-weight: bold;
+    background-color:white;
+    color: black;
+} 
+.container-fluid{
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    height: 50px;
+    
+}
+.mm{
+    padding-top: 10px;
+}
+.card{
+    display: flex;
+    margin-right: 10px;
+}
+.cc{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+ .kk{
+    display: flex;
+   
+  
+    flex-wrap: wrap;
+    margin-top: 30px;
+} 
+.ll{
+    padding-left: 50px;
+}
+.f{
+    margin-top: 30px;
+    width: 100%;
+    background-color:#696969;
+    color: white;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.ox,.fox{
+    display:flex;
+}
+  
+.social{
+    font-size: 25px;
+}
+.fa-facebook-square:hover, .fa-twitter-square:hover,.fa-instagram:hover,.fa-youtube-play:hover{
+    font-size: 30px;
+    cursor: pointer;
+    
+}
+.ox{
+    padding-top: 30px;
+    padding-bottom: 25px;
+  
+}
+
+.content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mn{
+    padding-top: 10px;
+}
+.lm{
+    margin-left: 40px;
+}
+.lmn{
+    margin-top: 30px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color:black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 1px;
+    background-image: url(black.jpg);
+    background-size: cover;
+    
+    padding: 10px;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+.img-fluid{
+    height: 500px;
+}
+.cm{
+    margin-top: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.c{
+   
+    text-align: center;
+    margin-top: 10PX;
+}
+.fa-handshake-o,.fa-hand-peace-o{
+    font-size: 100px !important;
+}
